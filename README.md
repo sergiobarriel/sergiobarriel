@@ -1,6 +1,6 @@
 Hello to everyone! 👋🏻
 
-I'm Sergio Barriel, a passionate developer at [VISEO Iberia](https://github.com/viseoiberia). My expertise lies in Microsoft technologies, where I specialize in crafting applications using Azure Functions. Additionally, I delve into tools like Azure Open AI and other cognitive services.
+I'm Sergio Barriel, a passionate developer at [VISEO Iberia](https://github.com/viseoiberia). My expertise lies in Microsoft technologies, where I specialize in crafting applications using ⚡ Azure Functions. Additionally, I delve into tools like Azure Open AI and other cognitive services.
 
 You can follow me here 
 
