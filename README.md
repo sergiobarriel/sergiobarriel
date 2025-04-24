@@ -2,7 +2,7 @@
 
 I'm **Sergio Barriel**, a passionate developer at [VISEO Iberia](https://github.com/viseoiberia). My expertise lies in Microsoft technologies, where I specialize in crafting applications using ⚡ Azure Functions. Additionally, I delve into tools like Azure Open AI and other cognitive services.
 
-Committed to equality and diversity, advocate for 🏳️‍🌈🏳️‍⚧️ LGTBI+ rights.
+Committed to equality and diversity, advocate for 🏳️‍🌈🏳️‍⚧️ LGTBQ+ rights.
 
 You can follow me here 
 
